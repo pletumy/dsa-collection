@@ -1,0 +1,14 @@
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_buoi1\dsa_buoi1\obj\Debug\net7.0\dsa_buoi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_buoi1\dsa_buoi1\obj\Debug\net7.0\dsa_buoi1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_buoi1\dsa_buoi1\obj\Debug\net7.0\dsa_buoi1.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_buoi1\dsa_buoi1\obj\Debug\net7.0\dsa_buoi1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_buoi1\dsa_buoi1\bin\Debug\net7.0\dsa_buoi1.exe
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_buoi1\dsa_buoi1\bin\Debug\net7.0\dsa_buoi1.deps.json
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_buoi1\dsa_buoi1\bin\Debug\net7.0\dsa_buoi1.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_buoi1\dsa_buoi1\bin\Debug\net7.0\dsa_buoi1.dll
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_buoi1\dsa_buoi1\bin\Debug\net7.0\dsa_buoi1.pdb
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_buoi1\dsa_buoi1\obj\Debug\net7.0\dsa_buoi1.dll
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_buoi1\dsa_buoi1\obj\Debug\net7.0\refint\dsa_buoi1.dll
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_buoi1\dsa_buoi1\obj\Debug\net7.0\dsa_buoi1.pdb
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_buoi1\dsa_buoi1\obj\Debug\net7.0\dsa_buoi1.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_buoi1\dsa_buoi1\obj\Debug\net7.0\ref\dsa_buoi1.dll

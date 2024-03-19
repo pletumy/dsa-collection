@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "dsa_buoi5/1.0.0": {
+        "runtime": {
+          "dsa_buoi5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dsa_buoi5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

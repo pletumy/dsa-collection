@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "oGlxa25GNMeHbTEppZPU0X+agxr3hrZ8bz6TMFVdMtnqnpc+U4lCyaOQmLxNHvKVZ2NZfEawYQQd9NodkvR7Qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\OneDrive\\Documents\\dsa\\dsa_stack-queue_lab\\dsa_lab_chap3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\aspose.html\\24.1.0\\aspose.html.24.1.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.9\\microsoft.netcore.platforms.3.1.9.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.0\\system.diagnostics.diagnosticsource.7.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.drawing.common\\4.7.3\\system.drawing.common.4.7.3.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_buoi2\dsa_lab_buoi2\bin\Debug\net7.0\dsa_lab_buoi2.exe
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_buoi2\dsa_lab_buoi2\bin\Debug\net7.0\dsa_lab_buoi2.deps.json
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_buoi2\dsa_lab_buoi2\bin\Debug\net7.0\dsa_lab_buoi2.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_buoi2\dsa_lab_buoi2\bin\Debug\net7.0\dsa_lab_buoi2.dll
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_buoi2\dsa_lab_buoi2\bin\Debug\net7.0\dsa_lab_buoi2.pdb
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_buoi2\dsa_lab_buoi2\obj\Debug\net7.0\dsa_lab_buoi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_buoi2\dsa_lab_buoi2\obj\Debug\net7.0\dsa_lab_buoi2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_buoi2\dsa_lab_buoi2\obj\Debug\net7.0\dsa_lab_buoi2.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_buoi2\dsa_lab_buoi2\obj\Debug\net7.0\dsa_lab_buoi2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_buoi2\dsa_lab_buoi2\obj\Debug\net7.0\dsa_lab_buoi2.dll
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_buoi2\dsa_lab_buoi2\obj\Debug\net7.0\refint\dsa_lab_buoi2.dll
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_buoi2\dsa_lab_buoi2\obj\Debug\net7.0\dsa_lab_buoi2.pdb
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_buoi2\dsa_lab_buoi2\obj\Debug\net7.0\dsa_lab_buoi2.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_buoi2\dsa_lab_buoi2\obj\Debug\net7.0\ref\dsa_lab_buoi2.dll

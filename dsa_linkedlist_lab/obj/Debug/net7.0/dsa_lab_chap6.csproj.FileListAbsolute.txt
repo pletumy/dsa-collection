@@ -1,0 +1,14 @@
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_chap6\bin\Debug\net7.0\dsa_lab_chap6.exe
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_chap6\bin\Debug\net7.0\dsa_lab_chap6.deps.json
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_chap6\bin\Debug\net7.0\dsa_lab_chap6.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_chap6\bin\Debug\net7.0\dsa_lab_chap6.dll
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_chap6\bin\Debug\net7.0\dsa_lab_chap6.pdb
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_chap6\obj\Debug\net7.0\dsa_lab_chap6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_chap6\obj\Debug\net7.0\dsa_lab_chap6.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_chap6\obj\Debug\net7.0\dsa_lab_chap6.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_chap6\obj\Debug\net7.0\dsa_lab_chap6.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_chap6\obj\Debug\net7.0\dsa_lab_chap6.dll
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_chap6\obj\Debug\net7.0\refint\dsa_lab_chap6.dll
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_chap6\obj\Debug\net7.0\dsa_lab_chap6.pdb
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_chap6\obj\Debug\net7.0\dsa_lab_chap6.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Documents\dsa\dsa_lab_chap6\obj\Debug\net7.0\ref\dsa_lab_chap6.dll

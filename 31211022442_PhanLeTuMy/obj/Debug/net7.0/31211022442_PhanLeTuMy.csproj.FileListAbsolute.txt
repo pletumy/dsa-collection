@@ -1,0 +1,14 @@
+C:\Users\ADMIN\OneDrive\Documents\dsa\31211022442_PhanLeTuMy\bin\Debug\net7.0\31211022442_PhanLeTuMy.exe
+C:\Users\ADMIN\OneDrive\Documents\dsa\31211022442_PhanLeTuMy\bin\Debug\net7.0\31211022442_PhanLeTuMy.deps.json
+C:\Users\ADMIN\OneDrive\Documents\dsa\31211022442_PhanLeTuMy\bin\Debug\net7.0\31211022442_PhanLeTuMy.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Documents\dsa\31211022442_PhanLeTuMy\bin\Debug\net7.0\31211022442_PhanLeTuMy.dll
+C:\Users\ADMIN\OneDrive\Documents\dsa\31211022442_PhanLeTuMy\bin\Debug\net7.0\31211022442_PhanLeTuMy.pdb
+C:\Users\ADMIN\OneDrive\Documents\dsa\31211022442_PhanLeTuMy\obj\Debug\net7.0\31211022442_PhanLeTuMy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Documents\dsa\31211022442_PhanLeTuMy\obj\Debug\net7.0\31211022442_PhanLeTuMy.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\dsa\31211022442_PhanLeTuMy\obj\Debug\net7.0\31211022442_PhanLeTuMy.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Documents\dsa\31211022442_PhanLeTuMy\obj\Debug\net7.0\31211022442_PhanLeTuMy.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\dsa\31211022442_PhanLeTuMy\obj\Debug\net7.0\31211022442_PhanLeTuMy.dll
+C:\Users\ADMIN\OneDrive\Documents\dsa\31211022442_PhanLeTuMy\obj\Debug\net7.0\refint\31211022442_PhanLeTuMy.dll
+C:\Users\ADMIN\OneDrive\Documents\dsa\31211022442_PhanLeTuMy\obj\Debug\net7.0\31211022442_PhanLeTuMy.pdb
+C:\Users\ADMIN\OneDrive\Documents\dsa\31211022442_PhanLeTuMy\obj\Debug\net7.0\31211022442_PhanLeTuMy.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Documents\dsa\31211022442_PhanLeTuMy\obj\Debug\net7.0\ref\31211022442_PhanLeTuMy.dll
